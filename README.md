@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis
+# MechaCar Statistical Analysis
 ## Overview of the Project
 In this project, production data for a prototype car known as the "MechaCar" was reviewed in order to provide insights to assist the manufacturing team.  Four different analyses were performed by importing data sets into RStudio and writing scripts.  First, a multiple linear regression analysis was done to identify which variables in the dataset predict the mpg of MechaCar prototypes.  Second, summary statistics were performed on the pounds per square inch (PSI) of the suspension coils from the manufacturing lots.  Third, t-tests were run to determine if the manufacturing lots are statistically different from the mean population.  Fourth, a statistical study was designed to compare vehicle performance of the MechaCar against vehicles from other manufacturers.  The results of the four analyses are summarized in the paragraphs which follow.
   
